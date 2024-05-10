@@ -1,6 +1,11 @@
 # ASR_Wav2Vec2_XLSR_Implementaion_Hindi
 Speech2Text for Hindi Language
 
+XLSR Wav2Vec2.0 is a groundbreaking pretrained model designed for self-supervised speech representation learning. 
+
+
+
+
 We have used multilingual pre-trained wav2vec 2.0 (XLSR) model for the ASR of Hindi Language:
 
 Model | Architecture | Hours | Languages | Datasets | Model
