@@ -2,7 +2,10 @@
 Speech2Text for Hindi Language
 
 XLSR Wav2Vec2.0 is a groundbreaking pretrained model designed for self-supervised speech representation learning. 
+Its architecture is tailored to harness vast amounts of unlabeled speech data, distilling intricate patterns and nuances to create a rich and generalized understanding of spoken language. This self-supervised pre-training phase sets the stage for subsequent fine-tuning, where the model refines its knowledge on specific downstream tasks using limited labeled datasets.
 
+- **Pre-Training**: Here the model is trained to develop broad general representations by learning from extensive datasets that are unlabeled. This step is believed to enhance performance on a downstream task with constrained data.
+- **Fine Tuning**: The pre trained model is then fine tuned using a small labelled dataset. The fine tuning can be done for a variety of downstream task
 
 
 
