@@ -1,0 +1,2 @@
+# ASR_Wav2Vec2_XLSR_Implementaion_Hindi
+Speech2Text for Hindi Language
